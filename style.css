@@ -199,7 +199,7 @@ footer {
     align-content: center;
     justify-content: center;
     color: white;
-    
+        flex-wrap: wrap;  
     
 }
 
@@ -231,6 +231,7 @@ footer {
     align-content: center;
     justify-content: center;
     color: white;
+        flex-wrap: wrap;  
     
 
 }
@@ -240,7 +241,8 @@ footer {
 
   
     color: blue;
-    text-shadow: 1px 1px 150px rgb(0, 60, 255);
+    text-shadow: 1px 1px 70px rgb(0, 60, 255);
+        flex-wrap: wrap;  
     
 }
 
@@ -249,7 +251,7 @@ footer {
 .yt{
 
     color: red;
-    text-shadow: 1px 1px 150px rgb(255, 0, 0);
+    text-shadow: 1px 1px 70px rgb(255, 0, 0);
     
 }
 
